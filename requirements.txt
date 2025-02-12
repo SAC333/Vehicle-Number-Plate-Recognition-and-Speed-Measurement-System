@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+ultralytics 
+opencv-python 
+pytesseract 
+torch   
+numpy==1.19.5
+pandas==1.1.5
+pillow 
+matplotlib
+ipython
+=======
+ultralytics 
+opencv-python 
+pytesseract 
+torch   
+numpy==1.19.5
+pandas==1.1.5
+pillow 
+matplotlib
+ipython
+>>>>>>> 9fa51f2 (Deleted all files except README.md)
