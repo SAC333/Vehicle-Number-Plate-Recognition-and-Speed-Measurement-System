@@ -1,0 +1,4 @@
+# for traing on yolo model
+dataset link has given below:-
+
+https://drive.google.com/file/d/1nQRG1LOS7Mf7v08Q3oauT2ZqMxh_mjxz/view?usp=drive_link
